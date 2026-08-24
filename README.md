@@ -1,19 +1,11 @@
 # About Me
 
-I'm currently exploring ways to make my GitHub profile clearer, more useful, and more representative of my work.
+I currently study Computer Science and Mathematics at UCLA, and previously worked as a Software Engineering Intern at Roblox.
 
-I'm learning how profile READMEs, pinned repositories, project descriptions, and GitHub customization can work together to present projects effectively.
+I’m passionate about building technology that helps people understand one another, connect more meaningfully, and engage with the world around them in richer ways.
 
-## Current Focus
+Outside of academics, I enjoy spending time in nature and with family, watching Chelsea FC, and challenging my friends to all kinds of puzzle games. I've also recently gotten into ping pong. One of my favorite memories is tubing on Lake Shasta—a perfect combination of water, friends, and just the right amount of adrenaline.
 
-- Building a thoughtful GitHub profile README
-- Organizing and presenting projects clearly
-- Learning how to configure and customize GitHub repositories
+Much of the software I've built recently is private because it was developed for research labs or enterprise projects whose source code I can't publicly share. I'm working on a website, coming soon, where I'll showcase demos and high-level breakdowns of the products and technology behind them—including the decisions that shaped them. I put a ton of effort into making these videos, so please go and check them out if available!
 
-## Featured Work
-
-I'm currently organizing the projects I want to highlight on my profile. More details will be added here as those projects are ready to share.
-
-## Beyond Programming
-
-I'm still deciding what personal interests and activities I want to include here.
+If you'd like to chat for professional or personal reasons, feel free to reach out at mmagidin[at]ucla[dot]edu
